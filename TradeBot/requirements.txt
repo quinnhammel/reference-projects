@@ -1,0 +1,4 @@
+yfinance
+InvestopediaApi
+pytz
+alpha_vantage

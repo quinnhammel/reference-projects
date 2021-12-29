@@ -1,0 +1,5 @@
+# consider doing 'sudo -H pip3 install ...' if on EC2 instance...
+requests >= 2.26.0
+# ssl version??? unclear. built in?
+boto3 >= 1.18.40
+botocore >= 1.21.40 # for this and above, for sure try sudo -H mentioned at beginning

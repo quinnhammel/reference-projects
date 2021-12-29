@@ -1,0 +1,1 @@
+This is the start of a project for scraping data related to options contracts. I played around with a few ways to store said data. It is for using the Tradier API later.

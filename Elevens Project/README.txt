@@ -1,0 +1,1 @@
+This project was a very basic one I did for a class in High School. It consists of a program used to play a card game. 

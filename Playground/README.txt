@@ -1,0 +1,5 @@
+This folder contains a few projects. A quick summary, in order of completeness of project:
+* GradeCurver -- this was a project I made as a final for a CS class. It allows for a teacher to see how a curve for a class actually looks and interact with it. It involves heavy web scraping and some light UI work with TKinter. 
+* GimKit -- this was a project for that same class which would play a quiz game and quickly abuse the rules. It was fully functional, but most likely does not work now. This is because it uses a web driver to operate, and the elements it selects to play the game frequently change. 
+* MorseCode / MorseNew -- these were the start to a loose project for translating morse code audio to plaintext. 
+* AHoleNew / AssholeScanner -- these were a project that would scrape the subreddit AmITheAsshole (AITA for short). This was based on the theory that the longer a post / title was, the less harsh the rating would be. It allowed me to work a lot with praw, reddit's API for scraping. 
